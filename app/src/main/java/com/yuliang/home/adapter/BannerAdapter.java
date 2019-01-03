@@ -1,4 +1,4 @@
-package com.yuliang.home;
+package com.yuliang.home.adapter;
 
 import android.content.Context;
 import android.widget.Toast;
@@ -9,6 +9,7 @@ import com.youth.banner.Banner;
 import com.youth.banner.BannerConfig;
 import com.youth.banner.Transformer;
 import com.youth.banner.listener.OnBannerListener;
+import com.yuliang.home.GlideImageLoader;
 import com.zxl.vlayoutdemo.R;
 
 import java.util.ArrayList;

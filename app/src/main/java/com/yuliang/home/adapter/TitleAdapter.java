@@ -1,9 +1,10 @@
-package com.yuliang.home;
+package com.yuliang.home.adapter;
 
 import android.content.Context;
 
 import com.alibaba.android.vlayout.layout.LinearLayoutHelper;
 import com.chad.library.adapter.base.BaseViewHolder;
+import com.yuliang.home.adapter.BaseDelegateAdapter;
 import com.zxl.vlayoutdemo.R;
 
 import static com.yuliang.home.Config.ITEM_URL;

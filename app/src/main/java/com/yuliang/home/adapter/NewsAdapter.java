@@ -1,4 +1,4 @@
-package com.yuliang.home;
+package com.yuliang.home.adapter;
 
 import android.content.Context;
 import android.widget.TextView;

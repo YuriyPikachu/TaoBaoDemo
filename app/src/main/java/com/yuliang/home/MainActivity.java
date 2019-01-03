@@ -5,6 +5,11 @@ import android.os.Bundle;
 import android.support.v7.widget.RecyclerView;
 import com.alibaba.android.vlayout.DelegateAdapter;
 import com.alibaba.android.vlayout.VirtualLayoutManager;
+import com.yuliang.home.adapter.BannerAdapter;
+import com.yuliang.home.adapter.GridAdapter;
+import com.yuliang.home.adapter.MenuAdapter;
+import com.yuliang.home.adapter.NewsAdapter;
+import com.yuliang.home.adapter.TitleAdapter;
 import com.zxl.vlayoutdemo.R;
 
 import java.util.LinkedList;
